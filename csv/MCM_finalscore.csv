@@ -1,0 +1,17 @@
+"","file_name","option_label","optimistic_overall","pessimistic_overall"
+"1","Employee 1","Control emissions",0.646829521829522,0.264033264033264
+"2","Employee 1","Energy saving practices",0.837837837837838,0.499480249480249
+"3","Employee 1","Health and safety",0.640202702702703,0.328872141372141
+"4","Employee 1","Low energy equipment",0.593295218295218,0.278586278586279
+"5","Employee 1","Recycle equipment",0.597193347193347,0.356548856548857
+"6","Employee 1","Recycle materials",0.739085239085239,0.386954261954262
+"7","Employee 1","Reduce toxics",0.585498960498961,0.243243243243243
+"8","Employee 1","Renewable energy",0.658523908523909,0.265072765072765
+"9","Product Development","Control emissions",0.603333333333333,0.244202898550725
+"10","Product Development","Energy saving practices",0.887101449275362,0.377971014492754
+"11","Product Development","Health and safety",0.742028985507246,0.498333333333333
+"12","Product Development","Low energy equipment",0.889855072463768,0.472391304347826
+"13","Product Development","Recycle equipment",0.834057971014493,0.610652173913043
+"14","Product Development","Recycle materials",0.844927536231884,0.566449275362319
+"15","Product Development","Reduce toxics",0.529420289855073,0.170289855072464
+"16","Product Development","Renewable energy",0.799782608695652,0.477608695652174

@@ -1,89 +1,265 @@
-"","file_name","option_label","crit_label","weight","optimistic","pessimistic"
-"1","Employee 1","Control emissions","Change culture",50,60,40
-"2","Employee 1","Control emissions","Cost",25,50,30
-"3","Employee 1","Control emissions","Ease of implementation",35,40,10
-"4","Employee 1","Control emissions","Impact",75,90,70
-"5","Employee 1","Energy saving practices","Change culture",50,90,70
-"6","Employee 1","Energy saving practices","Cost",25,85,75
-"7","Employee 1","Energy saving practices","Ease of implementation",35,90,70
-"8","Employee 1","Energy saving practices","Impact",75,70,50
-"9","Employee 1","Health and safety","Change culture",50,75,60
-"10","Employee 1","Health and safety","Cost",25,85,75
-"11","Employee 1","Health and safety","Ease of implementation",35,75,55
-"12","Employee 1","Health and safety","Impact",75,60,40
-"13","Employee 1","Low energy equipment","Change culture",50,60,40
-"14","Employee 1","Low energy equipment","Cost",25,60,50
-"15","Employee 1","Low energy equipment","Ease of implementation",35,60,50
-"16","Employee 1","Low energy equipment","Impact",75,75,55
-"17","Employee 1","Recycle equipment","Change culture",50,75,60
-"18","Employee 1","Recycle equipment","Cost",25,70,55
-"19","Employee 1","Recycle equipment","Ease of implementation",35,70,50
-"20","Employee 1","Recycle equipment","Impact",75,60,50
-"21","Employee 1","Recycle materials","Change culture",50,85,70
-"22","Employee 1","Recycle materials","Cost",25,70,55
-"23","Employee 1","Recycle materials","Ease of implementation",35,90,40
-"24","Employee 1","Recycle materials","Impact",75,65,50
-"25","Employee 1","Reduce toxics","Change culture",50,60,40
-"26","Employee 1","Reduce toxics","Cost",25,40,20
-"27","Employee 1","Reduce toxics","Ease of implementation",35,40,10
-"28","Employee 1","Reduce toxics","Impact",75,85,70
-"29","Employee 1","Renewable energy","Change culture",50,60,40
-"30","Employee 1","Renewable energy","Cost",25,80,50
-"31","Employee 1","Renewable energy","Ease of implementation",35,70,10
-"32","Employee 1","Renewable energy","Impact",75,75,65
-"33","Product Development","Control emissions","Change management",34,70,50
-"34","Product Development","Control emissions","Ease of Adoption",54,60,40
-"35","Product Development","Control emissions","Economic savings",14,80,70
-"36","Product Development","Control emissions","Implementation time",35,60,40
-"37","Product Development","Control emissions","Other reduced impacts",14,50,40
-"38","Product Development","Control emissions","Reduced carbon emissions",60,90,80
-"39","Product Development","Control emissions","Start-up costs",19,60,40
-"40","Product Development","Energy saving practices","Change management",34,80,60
-"41","Product Development","Energy saving practices","Ease of Adoption",54,80,60
-"42","Product Development","Energy saving practices","Economic savings",14,90,70
-"43","Product Development","Energy saving practices","Implementation time",35,80,40
-"44","Product Development","Energy saving practices","Other reduced impacts",14,60,40
-"45","Product Development","Energy saving practices","Reduced carbon emissions",60,90,70
-"46","Product Development","Energy saving practices","Start-up costs",19,90,80
-"47","Product Development","Health and safety","Change management",34,90,80
-"48","Product Development","Health and safety","Ease of Adoption",54,90,80
-"49","Product Development","Health and safety","Economic savings",14,80,60
-"50","Product Development","Health and safety","Implementation time",35,80,70
-"51","Product Development","Health and safety","Other reduced impacts",14,60,50
-"52","Product Development","Health and safety","Reduced carbon emissions",60,50,40
-"53","Product Development","Health and safety","Start-up costs",19,90,80
-"54","Product Development","Low energy equipment","Change management",34,80,60
-"55","Product Development","Low energy equipment","Ease of Adoption",54,90,70
-"56","Product Development","Low energy equipment","Economic savings",14,90,70
-"57","Product Development","Low energy equipment","Implementation time",35,80,50
-"58","Product Development","Low energy equipment","Other reduced impacts",14,40,30
-"59","Product Development","Low energy equipment","Reduced carbon emissions",60,90,80
-"60","Product Development","Low energy equipment","Start-up costs",19,80,60
-"61","Product Development","Recycle equipment","Change management",34,80,70
-"62","Product Development","Recycle equipment","Ease of Adoption",54,90,80
-"63","Product Development","Recycle equipment","Economic savings",14,80,70
-"64","Product Development","Recycle equipment","Implementation time",35,80,70
-"65","Product Development","Recycle equipment","Other reduced impacts",14,60,50
-"66","Product Development","Recycle equipment","Reduced carbon emissions",60,80,70
-"67","Product Development","Recycle equipment","Start-up costs",19,70,60
-"68","Product Development","Recycle materials","Change management",34,80,70
-"69","Product Development","Recycle materials","Ease of Adoption",54,90,80
-"70","Product Development","Recycle materials","Economic savings",14,80,70
-"71","Product Development","Recycle materials","Implementation time",35,80,70
-"72","Product Development","Recycle materials","Other reduced impacts",14,40,30
-"73","Product Development","Recycle materials","Reduced carbon emissions",60,80,70
-"74","Product Development","Recycle materials","Start-up costs",19,100,50
-"75","Product Development","Reduce toxics","Change management",34,70,50
-"76","Product Development","Reduce toxics","Ease of Adoption",54,60,40
-"77","Product Development","Reduce toxics","Economic savings",14,80,70
-"78","Product Development","Reduce toxics","Implementation time",35,60,40
-"79","Product Development","Reduce toxics","Other reduced impacts",14,70,60
-"80","Product Development","Reduce toxics","Reduced carbon emissions",60,70,60
-"81","Product Development","Reduce toxics","Start-up costs",19,60,40
-"82","Product Development","Renewable energy","Change management",34,80,70
-"83","Product Development","Renewable energy","Ease of Adoption",54,80,60
-"84","Product Development","Renewable energy","Economic savings",14,80,70
-"85","Product Development","Renewable energy","Implementation time",35,70,50
-"86","Product Development","Renewable energy","Other reduced impacts",14,50,40
-"87","Product Development","Renewable energy","Reduced carbon emissions",60,90,80
-"88","Product Development","Renewable energy","Start-up costs",19,80,60
+﻿"file_name","option_label","crit_label","weight","optimistic","pessimistic"
+"Employee 1","Control emissions","Change culture","50","60","40"
+"Employee 1","Control emissions","Cost","25","50","30"
+"Employee 1","Control emissions","Ease of implementation","35","40","10"
+"Employee 1","Control emissions","Impact","75","90","70"
+"Employee 1","Energy saving practices","Change culture","50","90","70"
+"Employee 1","Energy saving practices","Cost","25","85","75"
+"Employee 1","Energy saving practices","Ease of implementation","35","90","70"
+"Employee 1","Energy saving practices","Impact","75","70","50"
+"Employee 1","Health and safety","Change culture","50","75","60"
+"Employee 1","Health and safety","Cost","25","85","75"
+"Employee 1","Health and safety","Ease of implementation","35","75","55"
+"Employee 1","Health and safety","Impact","75","60","40"
+"Employee 1","Low energy equipment","Change culture","50","60","40"
+"Employee 1","Low energy equipment","Cost","25","60","50"
+"Employee 1","Low energy equipment","Ease of implementation","35","60","50"
+"Employee 1","Low energy equipment","Impact","75","75","55"
+"Employee 1","Recycle equipment","Change culture","50","75","60"
+"Employee 1","Recycle equipment","Cost","25","70","55"
+"Employee 1","Recycle equipment","Ease of implementation","35","70","50"
+"Employee 1","Recycle equipment","Impact","75","60","50"
+"Employee 1","Recycle materials","Change culture","50","85","70"
+"Employee 1","Recycle materials","Cost","25","70","55"
+"Employee 1","Recycle materials","Ease of implementation","35","90","40"
+"Employee 1","Recycle materials","Impact","75","65","50"
+"Employee 1","Reduce toxics","Change culture","50","60","40"
+"Employee 1","Reduce toxics","Cost","25","40","20"
+"Employee 1","Reduce toxics","Ease of implementation","35","40","10"
+"Employee 1","Reduce toxics","Impact","75","85","70"
+"Employee 1","Renewable energy","Change culture","50","60","40"
+"Employee 1","Renewable energy","Cost","25","80","50"
+"Employee 1","Renewable energy","Ease of implementation","35","70","10"
+"Employee 1","Renewable energy","Impact","75","75","65"
+"Management","Control emissions","Ease of Adoption","14","8","6"
+"Management","Control emissions","Economic savings","67","6","4"
+"Management","Control emissions","Implementation time","14","6","3"
+"Management","Control emissions","Operating costs","14","8","5"
+"Management","Control emissions","Other reduced impacts","14","7","6"
+"Management","Control emissions","Reduced carbon emissions","66","7","6"
+"Management","Control emissions","Start-up costs","14","5","4"
+"Management","Energy saving practices","Ease of Adoption","14","8","5"
+"Management","Energy saving practices","Economic savings","67","8","5"
+"Management","Energy saving practices","Implementation time","14","8","4"
+"Management","Energy saving practices","Operating costs","14","9","8"
+"Management","Energy saving practices","Other reduced impacts","14","4","3"
+"Management","Energy saving practices","Reduced carbon emissions","66","8","5"
+"Management","Energy saving practices","Start-up costs","14","6","4"
+"Management","Health and safety","Ease of Adoption","14","8","6"
+"Management","Health and safety","Economic savings","67","3","2"
+"Management","Health and safety","Implementation time","14","9","8"
+"Management","Health and safety","Operating costs","14","8","7"
+"Management","Health and safety","Other reduced impacts","14","6","5"
+"Management","Health and safety","Reduced carbon emissions","66","3","1"
+"Management","Health and safety","Start-up costs","14","8","7"
+"Management","Low energy equipment","Ease of Adoption","14","9","8"
+"Management","Low energy equipment","Economic savings","67","8","5"
+"Management","Low energy equipment","Implementation time","14","7","4"
+"Management","Low energy equipment","Operating costs","14","9","7"
+"Management","Low energy equipment","Other reduced impacts","14","4","3"
+"Management","Low energy equipment","Reduced carbon emissions","66","7","6"
+"Management","Low energy equipment","Start-up costs","14","7","6"
+"Management","Recycle equipment","Ease of Adoption","14","7","6"
+"Management","Recycle equipment","Economic savings","67","6","5"
+"Management","Recycle equipment","Implementation time","14","8","6"
+"Management","Recycle equipment","Operating costs","14","9","6"
+"Management","Recycle equipment","Other reduced impacts","14","3","2"
+"Management","Recycle equipment","Reduced carbon emissions","66","6","5"
+"Management","Recycle equipment","Start-up costs","14","8","7"
+"Management","Recycle materials","Ease of Adoption","14","8","7"
+"Management","Recycle materials","Economic savings","67","6","5"
+"Management","Recycle materials","Implementation time","14","9","7"
+"Management","Recycle materials","Operating costs","14","9","8"
+"Management","Recycle materials","Other reduced impacts","14","3","2"
+"Management","Recycle materials","Reduced carbon emissions","66","6","5"
+"Management","Recycle materials","Start-up costs","14","9","8"
+"Management","Reduce toxics","Ease of Adoption","14","8","6"
+"Management","Reduce toxics","Economic savings","67","5","4"
+"Management","Reduce toxics","Implementation time","14","7","4"
+"Management","Reduce toxics","Operating costs","14","7","5"
+"Management","Reduce toxics","Other reduced impacts","14","7","5"
+"Management","Reduce toxics","Reduced carbon emissions","66","5","4"
+"Management","Reduce toxics","Start-up costs","14","5","4"
+"Management","Renewable energy","Ease of Adoption","14","9","8"
+"Management","Renewable energy","Economic savings","67","8","4"
+"Management","Renewable energy","Implementation time","14","8","5"
+"Management","Renewable energy","Operating costs","14","8","5"
+"Management","Renewable energy","Other reduced impacts","14","4","2"
+"Management","Renewable energy","Reduced carbon emissions","66","9","8"
+"Management","Renewable energy","Start-up costs","14","5","4"
+"Marketing","Control emissions","Change management","14","7","4"
+"Marketing","Control emissions","Ease of Adoption","14","7","4"
+"Marketing","Control emissions","Economic savings","14","5","3"
+"Marketing","Control emissions","Implementation time","14","7","4"
+"Marketing","Control emissions","Operating costs","14","7","4"
+"Marketing","Control emissions","Reduced carbon emissions","70","8","7"
+"Marketing","Control emissions","Start-up costs","14","6","3"
+"Marketing","Energy saving practices","Change management","14","8","6"
+"Marketing","Energy saving practices","Ease of Adoption","14","9","6"
+"Marketing","Energy saving practices","Economic savings","14","9","6"
+"Marketing","Energy saving practices","Implementation time","14","8","6"
+"Marketing","Energy saving practices","Operating costs","14","9","8"
+"Marketing","Energy saving practices","Reduced carbon emissions","70","9","7"
+"Marketing","Energy saving practices","Start-up costs","14","8","6"
+"Marketing","Health and safety","Change management","14","8","6"
+"Marketing","Health and safety","Ease of Adoption","14","9","7"
+"Marketing","Health and safety","Economic savings","14","5","3"
+"Marketing","Health and safety","Implementation time","14","8","6"
+"Marketing","Health and safety","Operating costs","14","9","7"
+"Marketing","Health and safety","Reduced carbon emissions","70","5","3"
+"Marketing","Health and safety","Start-up costs","14","8","6"
+"Marketing","Low energy equipment","Change management","14","9","7"
+"Marketing","Low energy equipment","Ease of Adoption","14","9","8"
+"Marketing","Low energy equipment","Economic savings","14","9","7"
+"Marketing","Low energy equipment","Implementation time","14","7","5"
+"Marketing","Low energy equipment","Operating costs","14","9","8"
+"Marketing","Low energy equipment","Reduced carbon emissions","70","9","8"
+"Marketing","Low energy equipment","Start-up costs","14","8","5"
+"Marketing","Recycle equipment","Change management","14","8","6"
+"Marketing","Recycle equipment","Ease of Adoption","14","9","7"
+"Marketing","Recycle equipment","Economic savings","14","7","6"
+"Marketing","Recycle equipment","Implementation time","14","8","6"
+"Marketing","Recycle equipment","Operating costs","14","8","6"
+"Marketing","Recycle equipment","Reduced carbon emissions","70","9","7"
+"Marketing","Recycle equipment","Start-up costs","14","8","6"
+"Marketing","Recycle materials","Change management","14","9","7"
+"Marketing","Recycle materials","Ease of Adoption","14","9","8"
+"Marketing","Recycle materials","Economic savings","14","6","5"
+"Marketing","Recycle materials","Implementation time","14","9","8"
+"Marketing","Recycle materials","Operating costs","14","8","7"
+"Marketing","Recycle materials","Reduced carbon emissions","70","9","7"
+"Marketing","Recycle materials","Start-up costs","14","9","8"
+"Marketing","Reduce toxics","Change management","14","7","5"
+"Marketing","Reduce toxics","Ease of Adoption","14","7","4"
+"Marketing","Reduce toxics","Economic savings","14","5","3"
+"Marketing","Reduce toxics","Implementation time","14","7","3"
+"Marketing","Reduce toxics","Operating costs","14","7","4"
+"Marketing","Reduce toxics","Reduced carbon emissions","70","8","7"
+"Marketing","Reduce toxics","Start-up costs","14","6","3"
+"Marketing","Renewable energy","Change management","14","7","5"
+"Marketing","Renewable energy","Ease of Adoption","14","8","5"
+"Marketing","Renewable energy","Economic savings","14","7","5"
+"Marketing","Renewable energy","Implementation time","14","7","4"
+"Marketing","Renewable energy","Operating costs","14","8","5"
+"Marketing","Renewable energy","Reduced carbon emissions","70","9","8"
+"Marketing","Renewable energy","Start-up costs","14","7","4"
+"Product development","Control emissions","Change management","8","7","5"
+"Product development","Control emissions","Ease of Adoption","40","6","4"
+"Product development","Control emissions","Economic savings","22","8","7"
+"Product development","Control emissions","Implementation time","64","6","4"
+"Product development","Control emissions","Other reduced impacts","11","5","4"
+"Product development","Control emissions","Reduced carbon emissions","27","9","8"
+"Product development","Control emissions","Start-up costs","8","6","4"
+"Product development","Energy saving practices","Change management","8","8","6"
+"Product development","Energy saving practices","Ease of Adoption","40","8","6"
+"Product development","Energy saving practices","Economic savings","22","9","7"
+"Product development","Energy saving practices","Implementation time","64","8","4"
+"Product development","Energy saving practices","Other reduced impacts","11","6","4"
+"Product development","Energy saving practices","Reduced carbon emissions","27","9","7"
+"Product development","Energy saving practices","Start-up costs","8","9","8"
+"Product development","Health and safety","Change management","8","9","8"
+"Product development","Health and safety","Ease of Adoption","40","9","8"
+"Product development","Health and safety","Economic savings","22","8","6"
+"Product development","Health and safety","Implementation time","64","8","7"
+"Product development","Health and safety","Other reduced impacts","11","6","5"
+"Product development","Health and safety","Reduced carbon emissions","27","5","4"
+"Product development","Health and safety","Start-up costs","8","9","8"
+"Product development","Low energy equipment","Change management","8","8","6"
+"Product development","Low energy equipment","Ease of Adoption","40","9","7"
+"Product development","Low energy equipment","Economic savings","22","9","7"
+"Product development","Low energy equipment","Implementation time","64","8","5"
+"Product development","Low energy equipment","Other reduced impacts","11","4","3"
+"Product development","Low energy equipment","Reduced carbon emissions","27","9","8"
+"Product development","Low energy equipment","Start-up costs","8","8","6"
+"Product development","Recycle equipment","Change management","8","8","7"
+"Product development","Recycle equipment","Ease of Adoption","40","9","8"
+"Product development","Recycle equipment","Economic savings","22","8","7"
+"Product development","Recycle equipment","Implementation time","64","8","7"
+"Product development","Recycle equipment","Other reduced impacts","11","6","5"
+"Product development","Recycle equipment","Reduced carbon emissions","27","8","7"
+"Product development","Recycle equipment","Start-up costs","8","7","6"
+"Product development","Recycle materials","Change management","8","8","7"
+"Product development","Recycle materials","Ease of Adoption","40","9","8"
+"Product development","Recycle materials","Economic savings","22","8","7"
+"Product development","Recycle materials","Implementation time","64","8","7"
+"Product development","Recycle materials","Other reduced impacts","11","4","3"
+"Product development","Recycle materials","Reduced carbon emissions","27","8","7"
+"Product development","Recycle materials","Start-up costs","8","8","7"
+"Product development","Reduce toxics","Change management","8","7","5"
+"Product development","Reduce toxics","Ease of Adoption","40","6","4"
+"Product development","Reduce toxics","Economic savings","22","8","7"
+"Product development","Reduce toxics","Implementation time","64","6","4"
+"Product development","Reduce toxics","Other reduced impacts","11","7","6"
+"Product development","Reduce toxics","Reduced carbon emissions","27","7","6"
+"Product development","Reduce toxics","Start-up costs","8","6","4"
+"Product development","Renewable energy","Change management","8","8","7"
+"Product development","Renewable energy","Ease of Adoption","40","8","6"
+"Product development","Renewable energy","Economic savings","22","9","7"
+"Product development","Renewable energy","Implementation time","64","7","5"
+"Product development","Renewable energy","Other reduced impacts","11","5","4"
+"Product development","Renewable energy","Reduced carbon emissions","27","9","8"
+"Product development","Renewable energy","Start-up costs","8","8","6"
+"Trade union","Control emissions","Change management","1","65","45"
+"Trade union","Control emissions","Ease of Adoption","38","75","65"
+"Trade union","Control emissions","Economic savings","5","70","55"
+"Trade union","Control emissions","Implementation time","39","70","50"
+"Trade union","Control emissions","Operating costs","1","90","70"
+"Trade union","Control emissions","Other reduced impacts","5","40","30"
+"Trade union","Control emissions","Reduced carbon emissions","25","65","50"
+"Trade union","Control emissions","Start-up costs","1","65","40"
+"Trade union","Energy saving practices","Change management","1","85","60"
+"Trade union","Energy saving practices","Ease of Adoption","38","65","50"
+"Trade union","Energy saving practices","Economic savings","5","75","55"
+"Trade union","Energy saving practices","Implementation time","39","75","50"
+"Trade union","Energy saving practices","Operating costs","1","95","85"
+"Trade union","Energy saving practices","Other reduced impacts","5","35","25"
+"Trade union","Energy saving practices","Reduced carbon emissions","25","75","55"
+"Trade union","Energy saving practices","Start-up costs","1","80","60"
+"Trade union","Health and safety","Change management","1","85","75"
+"Trade union","Health and safety","Ease of Adoption","38","75","55"
+"Trade union","Health and safety","Economic savings","5","25","20"
+"Trade union","Health and safety","Implementation time","39","75","55"
+"Trade union","Health and safety","Operating costs","1","85","65"
+"Trade union","Health and safety","Other reduced impacts","5","50","35"
+"Trade union","Health and safety","Reduced carbon emissions","25","25","20"
+"Trade union","Health and safety","Start-up costs","1","95","80"
+"Trade union","Low energy equipment","Change management","1","85","55"
+"Trade union","Low energy equipment","Ease of Adoption","38","65","50"
+"Trade union","Low energy equipment","Economic savings","5","80","65"
+"Trade union","Low energy equipment","Implementation time","39","75","55"
+"Trade union","Low energy equipment","Operating costs","1","85","55"
+"Trade union","Low energy equipment","Other reduced impacts","5","35","25"
+"Trade union","Low energy equipment","Reduced carbon emissions","25","70","50"
+"Trade union","Low energy equipment","Start-up costs","1","60","40"
+"Trade union","Recycle equipment","Change management","1","80","65"
+"Trade union","Recycle equipment","Ease of Adoption","38","75","60"
+"Trade union","Recycle equipment","Economic savings","5","65","50"
+"Trade union","Recycle equipment","Implementation time","39","90","70"
+"Trade union","Recycle equipment","Operating costs","1","85","70"
+"Trade union","Recycle equipment","Other reduced impacts","5","45","20"
+"Trade union","Recycle equipment","Reduced carbon emissions","25","65","45"
+"Trade union","Recycle equipment","Start-up costs","1","80","65"
+"Trade union","Recycle materials","Change management","1","80","70"
+"Trade union","Recycle materials","Ease of Adoption","38","75","55"
+"Trade union","Recycle materials","Economic savings","5","65","55"
+"Trade union","Recycle materials","Implementation time","39","90","75"
+"Trade union","Recycle materials","Operating costs","1","90","75"
+"Trade union","Recycle materials","Other reduced impacts","5","35","20"
+"Trade union","Recycle materials","Reduced carbon emissions","25","65","45"
+"Trade union","Recycle materials","Start-up costs","1","85","70"
+"Trade union","Reduce toxics","Change management","1","65","45"
+"Trade union","Reduce toxics","Ease of Adoption","38","75","65"
+"Trade union","Reduce toxics","Economic savings","5","70","55"
+"Trade union","Reduce toxics","Implementation time","39","70","50"
+"Trade union","Reduce toxics","Operating costs","1","90","70"
+"Trade union","Reduce toxics","Other reduced impacts","5","75","65"
+"Trade union","Reduce toxics","Reduced carbon emissions","25","45","35"
+"Trade union","Reduce toxics","Start-up costs","1","65","40"
+"Trade union","Renewable energy","Change management","1","90","55"
+"Trade union","Renewable energy","Ease of Adoption","38","70","55"
+"Trade union","Renewable energy","Economic savings","5","85","65"
+"Trade union","Renewable energy","Implementation time","39","70","45"
+"Trade union","Renewable energy","Operating costs","1","90","65"
+"Trade union","Renewable energy","Other reduced impacts","5","40","30"
+"Trade union","Renewable energy","Reduced carbon emissions","25","75","60"
+"Trade union","Renewable energy","Start-up costs","1","75","35"

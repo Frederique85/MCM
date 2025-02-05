@@ -1,0 +1,17 @@
+﻿option_label,Option Type, Change management, Ease of Adoption, Economic savings, Implementation time, Operating costs, Other reduced impacts, Reduced carbon emissions, Start-up costs
+Control emissions ,Optimistic,65,75,70,70,90,40,65,65
+Control emissions ,Pessimistic,45,65,55,50,70,30,50,40
+Energy saving practices ,Optimistic,85,65,75,75,95,35,75,80
+Energy saving practices ,Pessimistic,60,50,55,50,85,25,55,60
+Health and safety ,Optimistic,85,75,25,75,85,50,25,95
+Health and safety ,Pessimistic,75,55,20,55,65,35,20,80
+Low energy equipment ,Optimistic,85,65,80,75,85,35,70,60
+Low energy equipment ,Pessimistic,55,50,65,55,55,25,50,40
+Recycle equipment ,Optimistic,80,75,65,90,85,45,65,80
+Recycle equipment ,Pessimistic,65,60,50,70,70,20,45,65
+Recycle materials ,Optimistic,80,75,65,90,90,35,65,85
+Recycle materials ,Pessimistic,70,55,55,75,75,20,45,70
+Reduce toxics ,Optimistic,65,75,70,70,90,75,45,65
+Reduce toxics ,Pessimistic,45,65,55,50,70,65,35,40
+Renewable energy ,Optimistic,90,70,85,70,90,40,75,75
+Renewable energy ,Pessimistic,55,55,65,45,65,30,60,35

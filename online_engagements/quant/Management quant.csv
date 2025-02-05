@@ -1,0 +1,17 @@
+﻿option_label,Option Type, Ease of Adoption, Economic savings, Implementation time, Operating costs, Other reduced impacts, Reduced carbon emissions, Start-up costs
+Control emissions ,Optimistic,8,6,6,8,7,7,5
+Control emissions ,Pessimistic,6,4,3,5,6,6,4
+Energy saving practices ,Optimistic,8,8,8,9,4,8,6
+Energy saving practices ,Pessimistic,5,5,4,8,3,5,4
+Health and safety ,Optimistic,8,3,9,8,6,3,8
+Health and safety ,Pessimistic,6,2,8,7,5,1,7
+Low energy equipment ,Optimistic,9,8,7,9,4,7,7
+Low energy equipment ,Pessimistic,8,5,4,7,3,6,6
+Recycle equipment ,Optimistic,7,6,8,9,3,6,8
+Recycle equipment ,Pessimistic,6,5,6,6,2,5,7
+Recycle materials ,Optimistic,8,6,9,9,3,6,9
+Recycle materials ,Pessimistic,7,5,7,8,2,5,8
+Reduce toxics ,Optimistic,8,5,7,7,7,5,5
+Reduce toxics ,Pessimistic,6,4,4,5,5,4,4
+Renewable energy ,Optimistic,9,8,8,8,4,9,5
+Renewable energy ,Pessimistic,8,4,5,5,2,8,4

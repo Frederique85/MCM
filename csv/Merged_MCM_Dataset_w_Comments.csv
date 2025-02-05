@@ -1,0 +1,529 @@
+﻿"file_name","option_label","option_type","crit_label","score_type","score","weight","comments"
+"Employee 1","Control emissions","core","Change culture","optimistic","60","50","NA"
+"Employee 1","Control emissions","core","Change culture","pessimistic","40","50","NA"
+"Employee 1","Control emissions","core","Cost","optimistic","50","25","NA"
+"Employee 1","Control emissions","core","Cost","pessimistic","30","25","This is relativley costly"
+"Employee 1","Control emissions","core","Ease of implementation","optimistic","40","35","Similar arguments to reducing toxics, however you do this, it still involves changing machines and processes"
+"Employee 1","Control emissions","core","Ease of implementation","pessimistic","10","35","NA"
+"Employee 1","Control emissions","core","Impact","optimistic","90","75","This would have a really big impact"
+"Employee 1","Control emissions","core","Impact","pessimistic","70","75","NA"
+"Employee 1","Energy saving practices","core","Change culture","optimistic","90","50","This is likely to change the culture because everybody will have to change their practices"
+"Employee 1","Energy saving practices","core","Change culture","pessimistic","70","50","NA"
+"Employee 1","Energy saving practices","core","Cost","optimistic","85","25","This is not expensive to implement"
+"Employee 1","Energy saving practices","core","Cost","pessimistic","75","25","NA"
+"Employee 1","Energy saving practices","core","Ease of implementation","optimistic","90","35","This could be fantastic and easy to implement if everyone gets on board"
+"Employee 1","Energy saving practices","core","Ease of implementation","pessimistic","70","35","If people resist necessary changes, this could be difficult to implement"
+"Employee 1","Energy saving practices","core","Impact","optimistic","70","75","This could have an impact on the greeness of the company"
+"Employee 1","Energy saving practices","core","Impact","pessimistic","50","75","But not as much as changing to renewable energy"
+"Employee 1","Health and safety","core","Change culture","optimistic","75","50","NA"
+"Employee 1","Health and safety","core","Change culture","pessimistic","60","50","NA"
+"Employee 1","Health and safety","core","Cost","optimistic","85","25","This is not expensive to implement"
+"Employee 1","Health and safety","core","Cost","pessimistic","75","25","NA"
+"Employee 1","Health and safety","core","Ease of implementation","optimistic","75","35","This could be relatively easy to implement"
+"Employee 1","Health and safety","core","Ease of implementation","pessimistic","55","35","There may be resistance to implementing this"
+"Employee 1","Health and safety","core","Impact","optimistic","60","75","NA"
+"Employee 1","Health and safety","core","Impact","pessimistic","40","75","This would not have a very big impact on becoming a greener company"
+"Employee 1","Low energy equipment","core","Change culture","optimistic","60","50","NA"
+"Employee 1","Low energy equipment","core","Change culture","pessimistic","40","50","If we have low energy equipment, people are less likely to change the culture, although doing both would be best// If we have low energy equipment, people are less likely to change the culture, although doing both this and changing energy practices would be best"
+"Employee 1","Low energy equipment","core","Cost","optimistic","60","25","This involves buying new equipment so it is relatively costly"
+"Employee 1","Low energy equipment","core","Cost","pessimistic","50","25","Although buying low energy equipment is an expense, we would re-coup costs by paying less for energy over time"
+"Employee 1","Low energy equipment","core","Ease of implementation","optimistic","60","35","Lower energy equipment does now exist so this is possible"
+"Employee 1","Low energy equipment","core","Ease of implementation","pessimistic","50","35","But it will only happy when we need to buy new equipment and so it is not immediately implementable"
+"Employee 1","Low energy equipment","core","Impact","optimistic","75","75","NA"
+"Employee 1","Low energy equipment","core","Impact","pessimistic","55","75","NA"
+"Employee 1","Recycle equipment","core","Change culture","optimistic","75","50","NA"
+"Employee 1","Recycle equipment","core","Change culture","pessimistic","60","50","NA"
+"Employee 1","Recycle equipment","core","Cost","optimistic","70","25","It is not too expensive to recycle equipment"
+"Employee 1","Recycle equipment","core","Cost","pessimistic","55","25","But we do have to pay to recycle equipment so there is a cost"
+"Employee 1","Recycle equipment","core","Ease of implementation","optimistic","70","35","This is slightly harder to implement than recycling materials"
+"Employee 1","Recycle equipment","core","Ease of implementation","pessimistic","50","35","Schemes are in place for this, we just need to use them"
+"Employee 1","Recycle equipment","core","Impact","optimistic","60","75","NA"
+"Employee 1","Recycle equipment","core","Impact","pessimistic","50","75","NA"
+"Employee 1","Recycle materials","core","Change culture","optimistic","85","50","This is likely to change the culture because everybody will need to recycle"
+"Employee 1","Recycle materials","core","Change culture","pessimistic","70","50","NA"
+"Employee 1","Recycle materials","core","Cost","optimistic","70","25","It is not too expensive to recycle materials"
+"Employee 1","Recycle materials","core","Cost","pessimistic","55","25","But we do have to pay to recycle materials so there is a cost"
+"Employee 1","Recycle materials","core","Ease of implementation","optimistic","90","35","We already do this for many materials so this is relatively easy to implement"
+"Employee 1","Recycle materials","core","Ease of implementation","pessimistic","40","35","For some materials, they are not yet widely recycled and so this is more difficult"
+"Employee 1","Recycle materials","core","Impact","optimistic","65","75","NA"
+"Employee 1","Recycle materials","core","Impact","pessimistic","50","75","NA"
+"Employee 1","Reduce toxics","core","Change culture","optimistic","60","50","NA"
+"Employee 1","Reduce toxics","core","Change culture","pessimistic","40","50","NA"
+"Employee 1","Reduce toxics","core","Cost","optimistic","40","25","NA"
+"Employee 1","Reduce toxics","core","Cost","pessimistic","20","25","This is relativley costly"
+"Employee 1","Reduce toxics","core","Ease of implementation","optimistic","40","35","Even optimistically, this is quite difficult to implement because it will involve changing machines and processes"
+"Employee 1","Reduce toxics","core","Ease of implementation","pessimistic","10","35","Quite difficult to implement due to physical machines and processes which must change"
+"Employee 1","Reduce toxics","core","Impact","optimistic","85","75","This would also have a really big impact"
+"Employee 1","Reduce toxics","core","Impact","pessimistic","70","75","NA"
+"Employee 1","Renewable energy","core","Change culture","optimistic","60","50","NA"
+"Employee 1","Renewable energy","core","Change culture","pessimistic","40","50","If we use renewable energy, we don't need to change culture although doing both would be better"
+"Employee 1","Renewable energy","core","Cost","optimistic","80","25","This could be relatively cheap if it just involves changing supplier"
+"Employee 1","Renewable energy","core","Cost","pessimistic","50","25","It could be very expensive if we have to install new equipment"
+"Employee 1","Renewable energy","core","Ease of implementation","optimistic","70","35","This is relatlively easy to implement if it means procuring energy from a company which sells energy which is certified 100% renewable."
+"Employee 1","Renewable energy","core","Ease of implementation","pessimistic","10","35","If this involves installing new technologies to produce renewable energy ourselves, this could be relatively difficult to implement"
+"Employee 1","Renewable energy","core","Impact","optimistic","75","75","Switching to renewable energy would have a big impact on becoming a greener company"
+"Employee 1","Renewable energy","core","Impact","pessimistic","65","75","NA"
+"Management","Control emissions","core","Ease of Adoption","optimistic","8","14",NA
+"Management","Control emissions","core","Ease of Adoption","pessimistic","6","14",NA
+"Management","Energy saving practices","core","Ease of Adoption","optimistic","8","14",NA
+"Management","Energy saving practices","core","Ease of Adoption","pessimistic","5","14",NA
+"Management","Health and safety","core","Ease of Adoption","optimistic","8","14",NA
+"Management","Health and safety","core","Ease of Adoption","pessimistic","6","14",NA
+"Management","Low energy equipment","core","Ease of Adoption","optimistic","9","14",NA
+"Management","Low energy equipment","core","Ease of Adoption","pessimistic","8","14",NA
+"Management","Recycle equipment","core","Ease of Adoption","optimistic","7","14",NA
+"Management","Recycle equipment","core","Ease of Adoption","pessimistic","6","14",NA
+"Management","Recycle materials","core","Ease of Adoption","optimistic","8","14",NA
+"Management","Recycle materials","core","Ease of Adoption","pessimistic","7","14",NA
+"Management","Reduce toxics","core","Ease of Adoption","optimistic","8","14",NA
+"Management","Reduce toxics","core","Ease of Adoption","pessimistic","6","14",NA
+"Management","Renewable energy","core","Ease of Adoption","optimistic","9","14",NA
+"Management","Renewable energy","core","Ease of Adoption","pessimistic","8","14",NA
+"Management","Control emissions","core","Economic savings","optimistic","6","67",NA
+"Management","Control emissions","core","Economic savings","pessimistic","4","67",NA
+"Management","Energy saving practices","core","Economic savings","optimistic","8","67",NA
+"Management","Energy saving practices","core","Economic savings","pessimistic","5","67",NA
+"Management","Health and safety","core","Economic savings","optimistic","3","67",NA
+"Management","Health and safety","core","Economic savings","pessimistic","2","67",NA
+"Management","Low energy equipment","core","Economic savings","optimistic","8","67",NA
+"Management","Low energy equipment","core","Economic savings","pessimistic","5","67",NA
+"Management","Recycle equipment","core","Economic savings","optimistic","6","67",NA
+"Management","Recycle equipment","core","Economic savings","pessimistic","5","67",NA
+"Management","Recycle materials","core","Economic savings","optimistic","6","67",NA
+"Management","Recycle materials","core","Economic savings","pessimistic","5","67",NA
+"Management","Reduce toxics","core","Economic savings","optimistic","5","67",NA
+"Management","Reduce toxics","core","Economic savings","pessimistic","4","67",NA
+"Management","Renewable energy","core","Economic savings","optimistic","8","67",NA
+"Management","Renewable energy","core","Economic savings","pessimistic","4","67",NA
+"Management","Control emissions","core","Implementation time","optimistic","6","14",NA
+"Management","Control emissions","core","Implementation time","pessimistic","3","14",NA
+"Management","Energy saving practices","core","Implementation time","optimistic","8","14",NA
+"Management","Energy saving practices","core","Implementation time","pessimistic","4","14",NA
+"Management","Health and safety","core","Implementation time","optimistic","9","14",NA
+"Management","Health and safety","core","Implementation time","pessimistic","8","14",NA
+"Management","Low energy equipment","core","Implementation time","optimistic","7","14",NA
+"Management","Low energy equipment","core","Implementation time","pessimistic","4","14",NA
+"Management","Recycle equipment","core","Implementation time","optimistic","8","14",NA
+"Management","Recycle equipment","core","Implementation time","pessimistic","6","14",NA
+"Management","Recycle materials","core","Implementation time","optimistic","9","14",NA
+"Management","Recycle materials","core","Implementation time","pessimistic","7","14",NA
+"Management","Reduce toxics","core","Implementation time","optimistic","7","14",NA
+"Management","Reduce toxics","core","Implementation time","pessimistic","4","14",NA
+"Management","Renewable energy","core","Implementation time","optimistic","8","14",NA
+"Management","Renewable energy","core","Implementation time","pessimistic","5","14",NA
+"Management","Control emissions","core","Operating costs","optimistic","8","14",NA
+"Management","Control emissions","core","Operating costs","pessimistic","5","14",NA
+"Management","Energy saving practices","core","Operating costs","optimistic","9","14",NA
+"Management","Energy saving practices","core","Operating costs","pessimistic","8","14",NA
+"Management","Health and safety","core","Operating costs","optimistic","8","14",NA
+"Management","Health and safety","core","Operating costs","pessimistic","7","14",NA
+"Management","Low energy equipment","core","Operating costs","optimistic","9","14",NA
+"Management","Low energy equipment","core","Operating costs","pessimistic","7","14",NA
+"Management","Recycle equipment","core","Operating costs","optimistic","9","14",NA
+"Management","Recycle equipment","core","Operating costs","pessimistic","6","14",NA
+"Management","Recycle materials","core","Operating costs","optimistic","9","14",NA
+"Management","Recycle materials","core","Operating costs","pessimistic","8","14",NA
+"Management","Reduce toxics","core","Operating costs","optimistic","7","14",NA
+"Management","Reduce toxics","core","Operating costs","pessimistic","5","14",NA
+"Management","Renewable energy","core","Operating costs","optimistic","8","14",NA
+"Management","Renewable energy","core","Operating costs","pessimistic","5","14",NA
+"Management","Control emissions","core","Other reduced impacts","optimistic","7","14",NA
+"Management","Control emissions","core","Other reduced impacts","pessimistic","6","14",NA
+"Management","Energy saving practices","core","Other reduced impacts","optimistic","4","14",NA
+"Management","Energy saving practices","core","Other reduced impacts","pessimistic","3","14",NA
+"Management","Health and safety","core","Other reduced impacts","optimistic","6","14",NA
+"Management","Health and safety","core","Other reduced impacts","pessimistic","5","14",NA
+"Management","Low energy equipment","core","Other reduced impacts","optimistic","4","14",NA
+"Management","Low energy equipment","core","Other reduced impacts","pessimistic","3","14",NA
+"Management","Recycle equipment","core","Other reduced impacts","optimistic","3","14",NA
+"Management","Recycle equipment","core","Other reduced impacts","pessimistic","2","14",NA
+"Management","Recycle materials","core","Other reduced impacts","optimistic","3","14",NA
+"Management","Recycle materials","core","Other reduced impacts","pessimistic","2","14",NA
+"Management","Reduce toxics","core","Other reduced impacts","optimistic","7","14",NA
+"Management","Reduce toxics","core","Other reduced impacts","pessimistic","5","14",NA
+"Management","Renewable energy","core","Other reduced impacts","optimistic","4","14",NA
+"Management","Renewable energy","core","Other reduced impacts","pessimistic","2","14",NA
+"Management","Control emissions","core","Reduced carbon emissions","optimistic","7","66",NA
+"Management","Control emissions","core","Reduced carbon emissions","pessimistic","6","66",NA
+"Management","Energy saving practices","core","Reduced carbon emissions","optimistic","8","66",NA
+"Management","Energy saving practices","core","Reduced carbon emissions","pessimistic","5","66",NA
+"Management","Health and safety","core","Reduced carbon emissions","optimistic","3","66",NA
+"Management","Health and safety","core","Reduced carbon emissions","pessimistic","1","66",NA
+"Management","Low energy equipment","core","Reduced carbon emissions","optimistic","7","66",NA
+"Management","Low energy equipment","core","Reduced carbon emissions","pessimistic","6","66",NA
+"Management","Recycle equipment","core","Reduced carbon emissions","optimistic","6","66",NA
+"Management","Recycle equipment","core","Reduced carbon emissions","pessimistic","5","66",NA
+"Management","Recycle materials","core","Reduced carbon emissions","optimistic","6","66",NA
+"Management","Recycle materials","core","Reduced carbon emissions","pessimistic","5","66",NA
+"Management","Reduce toxics","core","Reduced carbon emissions","optimistic","5","66",NA
+"Management","Reduce toxics","core","Reduced carbon emissions","pessimistic","4","66",NA
+"Management","Renewable energy","core","Reduced carbon emissions","optimistic","9","66",NA
+"Management","Renewable energy","core","Reduced carbon emissions","pessimistic","8","66",NA
+"Management","Control emissions","core","Start-up costs","optimistic","5","14",NA
+"Management","Control emissions","core","Start-up costs","pessimistic","4","14",NA
+"Management","Energy saving practices","core","Start-up costs","optimistic","6","14",NA
+"Management","Energy saving practices","core","Start-up costs","pessimistic","4","14",NA
+"Management","Health and safety","core","Start-up costs","optimistic","8","14",NA
+"Management","Health and safety","core","Start-up costs","pessimistic","7","14",NA
+"Management","Low energy equipment","core","Start-up costs","optimistic","7","14",NA
+"Management","Low energy equipment","core","Start-up costs","pessimistic","6","14",NA
+"Management","Recycle equipment","core","Start-up costs","optimistic","8","14",NA
+"Management","Recycle equipment","core","Start-up costs","pessimistic","7","14",NA
+"Management","Recycle materials","core","Start-up costs","optimistic","9","14",NA
+"Management","Recycle materials","core","Start-up costs","pessimistic","8","14",NA
+"Management","Reduce toxics","core","Start-up costs","optimistic","5","14",NA
+"Management","Reduce toxics","core","Start-up costs","pessimistic","4","14",NA
+"Management","Renewable energy","core","Start-up costs","optimistic","5","14",NA
+"Management","Renewable energy","core","Start-up costs","pessimistic","4","14",NA
+"Marketing","Control emissions","core","Change management","optimistic","7","14",NA
+"Marketing","Control emissions","core","Change management","pessimistic","4","14",NA
+"Marketing","Energy saving practices","core","Change management","optimistic","8","14",NA
+"Marketing","Energy saving practices","core","Change management","pessimistic","6","14",NA
+"Marketing","Health and safety","core","Change management","optimistic","8","14",NA
+"Marketing","Health and safety","core","Change management","pessimistic","6","14",NA
+"Marketing","Low energy equipment","core","Change management","optimistic","9","14",NA
+"Marketing","Low energy equipment","core","Change management","pessimistic","7","14",NA
+"Marketing","Recycle equipment","core","Change management","optimistic","8","14",NA
+"Marketing","Recycle equipment","core","Change management","pessimistic","6","14",NA
+"Marketing","Recycle materials","core","Change management","optimistic","9","14",NA
+"Marketing","Recycle materials","core","Change management","pessimistic","7","14",NA
+"Marketing","Reduce toxics","core","Change management","optimistic","7","14",NA
+"Marketing","Reduce toxics","core","Change management","pessimistic","5","14",NA
+"Marketing","Renewable energy","core","Change management","optimistic","7","14",NA
+"Marketing","Renewable energy","core","Change management","pessimistic","5","14",NA
+"Marketing","Control emissions","core","Ease of Adoption","optimistic","7","14",NA
+"Marketing","Control emissions","core","Ease of Adoption","pessimistic","4","14",NA
+"Marketing","Energy saving practices","core","Ease of Adoption","optimistic","9","14",NA
+"Marketing","Energy saving practices","core","Ease of Adoption","pessimistic","6","14",NA
+"Marketing","Health and safety","core","Ease of Adoption","optimistic","9","14",NA
+"Marketing","Health and safety","core","Ease of Adoption","pessimistic","7","14",NA
+"Marketing","Low energy equipment","core","Ease of Adoption","optimistic","9","14",NA
+"Marketing","Low energy equipment","core","Ease of Adoption","pessimistic","8","14",NA
+"Marketing","Recycle equipment","core","Ease of Adoption","optimistic","9","14",NA
+"Marketing","Recycle equipment","core","Ease of Adoption","pessimistic","7","14",NA
+"Marketing","Recycle materials","core","Ease of Adoption","optimistic","9","14",NA
+"Marketing","Recycle materials","core","Ease of Adoption","pessimistic","8","14",NA
+"Marketing","Reduce toxics","core","Ease of Adoption","optimistic","7","14",NA
+"Marketing","Reduce toxics","core","Ease of Adoption","pessimistic","4","14",NA
+"Marketing","Renewable energy","core","Ease of Adoption","optimistic","8","14",NA
+"Marketing","Renewable energy","core","Ease of Adoption","pessimistic","5","14",NA
+"Marketing","Control emissions","core","Economic savings","optimistic","5","14",NA
+"Marketing","Control emissions","core","Economic savings","pessimistic","3","14",NA
+"Marketing","Energy saving practices","core","Economic savings","optimistic","9","14",NA
+"Marketing","Energy saving practices","core","Economic savings","pessimistic","6","14",NA
+"Marketing","Health and safety","core","Economic savings","optimistic","5","14",NA
+"Marketing","Health and safety","core","Economic savings","pessimistic","3","14",NA
+"Marketing","Low energy equipment","core","Economic savings","optimistic","9","14",NA
+"Marketing","Low energy equipment","core","Economic savings","pessimistic","7","14",NA
+"Marketing","Recycle equipment","core","Economic savings","optimistic","7","14",NA
+"Marketing","Recycle equipment","core","Economic savings","pessimistic","6","14",NA
+"Marketing","Recycle materials","core","Economic savings","optimistic","6","14",NA
+"Marketing","Recycle materials","core","Economic savings","pessimistic","5","14",NA
+"Marketing","Reduce toxics","core","Economic savings","optimistic","5","14",NA
+"Marketing","Reduce toxics","core","Economic savings","pessimistic","3","14",NA
+"Marketing","Renewable energy","core","Economic savings","optimistic","7","14",NA
+"Marketing","Renewable energy","core","Economic savings","pessimistic","5","14",NA
+"Marketing","Control emissions","core","Implementation time","optimistic","7","14",NA
+"Marketing","Control emissions","core","Implementation time","pessimistic","4","14",NA
+"Marketing","Energy saving practices","core","Implementation time","optimistic","8","14",NA
+"Marketing","Energy saving practices","core","Implementation time","pessimistic","6","14",NA
+"Marketing","Health and safety","core","Implementation time","optimistic","8","14",NA
+"Marketing","Health and safety","core","Implementation time","pessimistic","6","14",NA
+"Marketing","Low energy equipment","core","Implementation time","optimistic","7","14",NA
+"Marketing","Low energy equipment","core","Implementation time","pessimistic","5","14",NA
+"Marketing","Recycle equipment","core","Implementation time","optimistic","8","14",NA
+"Marketing","Recycle equipment","core","Implementation time","pessimistic","6","14",NA
+"Marketing","Recycle materials","core","Implementation time","optimistic","9","14",NA
+"Marketing","Recycle materials","core","Implementation time","pessimistic","8","14",NA
+"Marketing","Reduce toxics","core","Implementation time","optimistic","7","14",NA
+"Marketing","Reduce toxics","core","Implementation time","pessimistic","3","14",NA
+"Marketing","Renewable energy","core","Implementation time","optimistic","7","14",NA
+"Marketing","Renewable energy","core","Implementation time","pessimistic","4","14",NA
+"Marketing","Control emissions","core","Operating costs","optimistic","7","14",NA
+"Marketing","Control emissions","core","Operating costs","pessimistic","4","14",NA
+"Marketing","Energy saving practices","core","Operating costs","optimistic","9","14",NA
+"Marketing","Energy saving practices","core","Operating costs","pessimistic","8","14",NA
+"Marketing","Health and safety","core","Operating costs","optimistic","9","14",NA
+"Marketing","Health and safety","core","Operating costs","pessimistic","7","14",NA
+"Marketing","Low energy equipment","core","Operating costs","optimistic","9","14",NA
+"Marketing","Low energy equipment","core","Operating costs","pessimistic","8","14",NA
+"Marketing","Recycle equipment","core","Operating costs","optimistic","8","14",NA
+"Marketing","Recycle equipment","core","Operating costs","pessimistic","6","14",NA
+"Marketing","Recycle materials","core","Operating costs","optimistic","8","14",NA
+"Marketing","Recycle materials","core","Operating costs","pessimistic","7","14",NA
+"Marketing","Reduce toxics","core","Operating costs","optimistic","7","14",NA
+"Marketing","Reduce toxics","core","Operating costs","pessimistic","4","14",NA
+"Marketing","Renewable energy","core","Operating costs","optimistic","8","14",NA
+"Marketing","Renewable energy","core","Operating costs","pessimistic","5","14",NA
+"Marketing","Control emissions","core","Reduced carbon emissions","optimistic","8","70",NA
+"Marketing","Control emissions","core","Reduced carbon emissions","pessimistic","7","70",NA
+"Marketing","Energy saving practices","core","Reduced carbon emissions","optimistic","9","70",NA
+"Marketing","Energy saving practices","core","Reduced carbon emissions","pessimistic","7","70",NA
+"Marketing","Health and safety","core","Reduced carbon emissions","optimistic","5","70",NA
+"Marketing","Health and safety","core","Reduced carbon emissions","pessimistic","3","70",NA
+"Marketing","Low energy equipment","core","Reduced carbon emissions","optimistic","9","70",NA
+"Marketing","Low energy equipment","core","Reduced carbon emissions","pessimistic","8","70",NA
+"Marketing","Recycle equipment","core","Reduced carbon emissions","optimistic","9","70",NA
+"Marketing","Recycle equipment","core","Reduced carbon emissions","pessimistic","7","70",NA
+"Marketing","Recycle materials","core","Reduced carbon emissions","optimistic","9","70",NA
+"Marketing","Recycle materials","core","Reduced carbon emissions","pessimistic","7","70",NA
+"Marketing","Reduce toxics","core","Reduced carbon emissions","optimistic","8","70",NA
+"Marketing","Reduce toxics","core","Reduced carbon emissions","pessimistic","7","70",NA
+"Marketing","Renewable energy","core","Reduced carbon emissions","optimistic","9","70",NA
+"Marketing","Renewable energy","core","Reduced carbon emissions","pessimistic","8","70",NA
+"Marketing","Control emissions","core","Start-up costs","optimistic","6","14",NA
+"Marketing","Control emissions","core","Start-up costs","pessimistic","3","14",NA
+"Marketing","Energy saving practices","core","Start-up costs","optimistic","8","14",NA
+"Marketing","Energy saving practices","core","Start-up costs","pessimistic","6","14",NA
+"Marketing","Health and safety","core","Start-up costs","optimistic","8","14",NA
+"Marketing","Health and safety","core","Start-up costs","pessimistic","6","14",NA
+"Marketing","Low energy equipment","core","Start-up costs","optimistic","8","14",NA
+"Marketing","Low energy equipment","core","Start-up costs","pessimistic","5","14",NA
+"Marketing","Recycle equipment","core","Start-up costs","optimistic","8","14",NA
+"Marketing","Recycle equipment","core","Start-up costs","pessimistic","6","14",NA
+"Marketing","Recycle materials","core","Start-up costs","optimistic","9","14",NA
+"Marketing","Recycle materials","core","Start-up costs","pessimistic","8","14",NA
+"Marketing","Reduce toxics","core","Start-up costs","optimistic","6","14",NA
+"Marketing","Reduce toxics","core","Start-up costs","pessimistic","3","14",NA
+"Marketing","Renewable energy","core","Start-up costs","optimistic","7","14",NA
+"Marketing","Renewable energy","core","Start-up costs","pessimistic","4","14",NA
+"Product development","Control emissions","core","Change management","optimistic","7","8",NA
+"Product development","Control emissions","core","Change management","pessimistic","5","8","There may be a lot of change required to control emisions"
+"Product development","Energy saving practices","core","Change management","optimistic","8","8",NA
+"Product development","Energy saving practices","core","Change management","pessimistic","6","8",NA
+"Product development","Health and safety","core","Change management","optimistic","9","8",NA
+"Product development","Health and safety","core","Change management","pessimistic","8","8","I believe there should not be too much change management involved in updating health and safety policies"
+"Product development","Low energy equipment","core","Change management","optimistic","8","8",NA
+"Product development","Low energy equipment","core","Change management","pessimistic","6","8",NA
+"Product development","Recycle equipment","core","Change management","optimistic","8","8",NA
+"Product development","Recycle equipment","core","Change management","pessimistic","7","8",NA
+"Product development","Recycle materials","core","Change management","optimistic","8","8",NA
+"Product development","Recycle materials","core","Change management","pessimistic","7","8",NA
+"Product development","Reduce toxics","core","Change management","optimistic","7","8",NA
+"Product development","Reduce toxics","core","Change management","pessimistic","5","8","There may be a lot of change required to reduce toxics"
+"Product development","Renewable energy","core","Change management","optimistic","8","8",NA
+"Product development","Renewable energy","core","Change management","pessimistic","7","8",NA
+"Product development","Control emissions","core","Ease of Adoption","optimistic","6","40",NA
+"Product development","Control emissions","core","Ease of Adoption","pessimistic","4","40",NA
+"Product development","Energy saving practices","core","Ease of Adoption","optimistic","8","40",NA
+"Product development","Energy saving practices","core","Ease of Adoption","pessimistic","6","40",NA
+"Product development","Health and safety","core","Ease of Adoption","optimistic","9","40",NA
+"Product development","Health and safety","core","Ease of Adoption","pessimistic","8","40",NA
+"Product development","Low energy equipment","core","Ease of Adoption","optimistic","9","40",NA
+"Product development","Low energy equipment","core","Ease of Adoption","pessimistic","7","40",NA
+"Product development","Recycle equipment","core","Ease of Adoption","optimistic","9","40",NA
+"Product development","Recycle equipment","core","Ease of Adoption","pessimistic","8","40",NA
+"Product development","Recycle materials","core","Ease of Adoption","optimistic","9","40",NA
+"Product development","Recycle materials","core","Ease of Adoption","pessimistic","8","40",NA
+"Product development","Reduce toxics","core","Ease of Adoption","optimistic","6","40",NA
+"Product development","Reduce toxics","core","Ease of Adoption","pessimistic","4","40","I am not sure how easy this will be, it may be difficult"
+"Product development","Renewable energy","core","Ease of Adoption","optimistic","8","40",NA
+"Product development","Renewable energy","core","Ease of Adoption","pessimistic","6","40",NA
+"Product development","Control emissions","core","Economic savings","optimistic","8","22",NA
+"Product development","Control emissions","core","Economic savings","pessimistic","7","22",NA
+"Product development","Energy saving practices","core","Economic savings","optimistic","9","22","I think energy saving practices will produce economic savings"
+"Product development","Energy saving practices","core","Economic savings","pessimistic","7","22",NA
+"Product development","Health and safety","core","Economic savings","optimistic","8","22",NA
+"Product development","Health and safety","core","Economic savings","pessimistic","6","22","I am less confident that health and safety changes will save money"
+"Product development","Low energy equipment","core","Economic savings","optimistic","9","22","I think low energy equipment will save money in the longer term"
+"Product development","Low energy equipment","core","Economic savings","pessimistic","7","22",NA
+"Product development","Recycle equipment","core","Economic savings","optimistic","8","22",NA
+"Product development","Recycle equipment","core","Economic savings","pessimistic","7","22",NA
+"Product development","Recycle materials","core","Economic savings","optimistic","8","22",NA
+"Product development","Recycle materials","core","Economic savings","pessimistic","7","22",NA
+"Product development","Reduce toxics","core","Economic savings","optimistic","8","22",NA
+"Product development","Reduce toxics","core","Economic savings","pessimistic","7","22",NA
+"Product development","Renewable energy","core","Economic savings","optimistic","9","22",NA
+"Product development","Renewable energy","core","Economic savings","pessimistic","7","22",NA
+"Product development","Control emissions","core","Implementation time","optimistic","6","64",NA
+"Product development","Control emissions","core","Implementation time","pessimistic","4","64","It may take a long time to control emissions"
+"Product development","Energy saving practices","core","Implementation time","optimistic","8","64",NA
+"Product development","Energy saving practices","core","Implementation time","pessimistic","4","64",NA
+"Product development","Health and safety","core","Implementation time","optimistic","8","64",NA
+"Product development","Health and safety","core","Implementation time","pessimistic","7","64",NA
+"Product development","Low energy equipment","core","Implementation time","optimistic","8","64",NA
+"Product development","Low energy equipment","core","Implementation time","pessimistic","5","64",NA
+"Product development","Recycle equipment","core","Implementation time","optimistic","8","64",NA
+"Product development","Recycle equipment","core","Implementation time","pessimistic","7","64",NA
+"Product development","Recycle materials","core","Implementation time","optimistic","8","64",NA
+"Product development","Recycle materials","core","Implementation time","pessimistic","7","64",NA
+"Product development","Reduce toxics","core","Implementation time","optimistic","6","64",NA
+"Product development","Reduce toxics","core","Implementation time","pessimistic","4","64",NA
+"Product development","Renewable energy","core","Implementation time","optimistic","7","64",NA
+"Product development","Renewable energy","core","Implementation time","pessimistic","5","64",NA
+"Product development","Control emissions","core","Other reduced impacts","optimistic","5","11",NA
+"Product development","Control emissions","core","Other reduced impacts","pessimistic","4","11",NA
+"Product development","Energy saving practices","core","Other reduced impacts","optimistic","6","11",NA
+"Product development","Energy saving practices","core","Other reduced impacts","pessimistic","4","11",NA
+"Product development","Health and safety","core","Other reduced impacts","optimistic","6","11",NA
+"Product development","Health and safety","core","Other reduced impacts","pessimistic","5","11",NA
+"Product development","Low energy equipment","core","Other reduced impacts","optimistic","4","11",NA
+"Product development","Low energy equipment","core","Other reduced impacts","pessimistic","3","11",NA
+"Product development","Recycle equipment","core","Other reduced impacts","optimistic","6","11",NA
+"Product development","Recycle equipment","core","Other reduced impacts","pessimistic","5","11",NA
+"Product development","Recycle materials","core","Other reduced impacts","optimistic","4","11",NA
+"Product development","Recycle materials","core","Other reduced impacts","pessimistic","3","11",NA
+"Product development","Reduce toxics","core","Other reduced impacts","optimistic","7","11",NA
+"Product development","Reduce toxics","core","Other reduced impacts","pessimistic","6","11",NA
+"Product development","Renewable energy","core","Other reduced impacts","optimistic","5","11",NA
+"Product development","Renewable energy","core","Other reduced impacts","pessimistic","4","11",NA
+"Product development","Control emissions","core","Reduced carbon emissions","optimistic","9","27",NA
+"Product development","Control emissions","core","Reduced carbon emissions","pessimistic","8","27",NA
+"Product development","Energy saving practices","core","Reduced carbon emissions","optimistic","9","27",NA
+"Product development","Energy saving practices","core","Reduced carbon emissions","pessimistic","7","27",NA
+"Product development","Health and safety","core","Reduced carbon emissions","optimistic","5","27",NA
+"Product development","Health and safety","core","Reduced carbon emissions","pessimistic","4","27","Health and safety probably won't reduce carbon emissions"
+"Product development","Low energy equipment","core","Reduced carbon emissions","optimistic","9","27",NA
+"Product development","Low energy equipment","core","Reduced carbon emissions","pessimistic","8","27",NA
+"Product development","Recycle equipment","core","Reduced carbon emissions","optimistic","8","27",NA
+"Product development","Recycle equipment","core","Reduced carbon emissions","pessimistic","7","27",NA
+"Product development","Recycle materials","core","Reduced carbon emissions","optimistic","8","27",NA
+"Product development","Recycle materials","core","Reduced carbon emissions","pessimistic","7","27",NA
+"Product development","Reduce toxics","core","Reduced carbon emissions","optimistic","7","27",NA
+"Product development","Reduce toxics","core","Reduced carbon emissions","pessimistic","6","27",NA
+"Product development","Renewable energy","core","Reduced carbon emissions","optimistic","9","27",NA
+"Product development","Renewable energy","core","Reduced carbon emissions","pessimistic","8","27",NA
+"Product development","Control emissions","core","Start-up costs","optimistic","6","8",NA
+"Product development","Control emissions","core","Start-up costs","pessimistic","4","8",NA
+"Product development","Energy saving practices","core","Start-up costs","optimistic","9","8",NA
+"Product development","Energy saving practices","core","Start-up costs","pessimistic","8","8",NA
+"Product development","Health and safety","core","Start-up costs","optimistic","9","8",NA
+"Product development","Health and safety","core","Start-up costs","pessimistic","8","8",NA
+"Product development","Low energy equipment","core","Start-up costs","optimistic","8","8",NA
+"Product development","Low energy equipment","core","Start-up costs","pessimistic","6","8",NA
+"Product development","Recycle equipment","core","Start-up costs","optimistic","7","8",NA
+"Product development","Recycle equipment","core","Start-up costs","pessimistic","6","8",NA
+"Product development","Recycle materials","core","Start-up costs","optimistic","8","8","I'm adding a new note// Researcher notes//Researcher notes://I'm adding another note"
+"Product development","Recycle materials","core","Start-up costs","pessimistic","7","8","I'm adding a new note here too"
+"Product development","Reduce toxics","core","Start-up costs","optimistic","6","8",NA
+"Product development","Reduce toxics","core","Start-up costs","pessimistic","4","8","The start up costs for reducing toxics may be high but I'm not sure"
+"Product development","Renewable energy","core","Start-up costs","optimistic","8","8",NA
+"Product development","Renewable energy","core","Start-up costs","pessimistic","6","8",NA
+"Trade union","Control emissions","core","Change management","optimistic","65","1",NA
+"Trade union","Control emissions","core","Change management","pessimistic","45","1",NA
+"Trade union","Energy saving practices","core","Change management","optimistic","85","1",NA
+"Trade union","Energy saving practices","core","Change management","pessimistic","60","1",NA
+"Trade union","Health and safety","core","Change management","optimistic","85","1",NA
+"Trade union","Health and safety","core","Change management","pessimistic","75","1",NA
+"Trade union","Low energy equipment","core","Change management","optimistic","85","1",NA
+"Trade union","Low energy equipment","core","Change management","pessimistic","55","1",NA
+"Trade union","Recycle equipment","core","Change management","optimistic","80","1",NA
+"Trade union","Recycle equipment","core","Change management","pessimistic","65","1",NA
+"Trade union","Recycle materials","core","Change management","optimistic","80","1",NA
+"Trade union","Recycle materials","core","Change management","pessimistic","70","1",NA
+"Trade union","Reduce toxics","core","Change management","optimistic","65","1",NA
+"Trade union","Reduce toxics","core","Change management","pessimistic","45","1",NA
+"Trade union","Renewable energy","core","Change management","optimistic","90","1",NA
+"Trade union","Renewable energy","core","Change management","pessimistic","55","1",NA
+"Trade union","Control emissions","core","Ease of Adoption","optimistic","75","38",NA
+"Trade union","Control emissions","core","Ease of Adoption","pessimistic","65","38",NA
+"Trade union","Energy saving practices","core","Ease of Adoption","optimistic","65","38",NA
+"Trade union","Energy saving practices","core","Ease of Adoption","pessimistic","50","38",NA
+"Trade union","Health and safety","core","Ease of Adoption","optimistic","75","38",NA
+"Trade union","Health and safety","core","Ease of Adoption","pessimistic","55","38",NA
+"Trade union","Low energy equipment","core","Ease of Adoption","optimistic","65","38",NA
+"Trade union","Low energy equipment","core","Ease of Adoption","pessimistic","50","38",NA
+"Trade union","Recycle equipment","core","Ease of Adoption","optimistic","75","38",NA
+"Trade union","Recycle equipment","core","Ease of Adoption","pessimistic","60","38",NA
+"Trade union","Recycle materials","core","Ease of Adoption","optimistic","75","38",NA
+"Trade union","Recycle materials","core","Ease of Adoption","pessimistic","55","38",NA
+"Trade union","Reduce toxics","core","Ease of Adoption","optimistic","75","38",NA
+"Trade union","Reduce toxics","core","Ease of Adoption","pessimistic","65","38",NA
+"Trade union","Renewable energy","core","Ease of Adoption","optimistic","70","38",NA
+"Trade union","Renewable energy","core","Ease of Adoption","pessimistic","55","38",NA
+"Trade union","Control emissions","core","Economic savings","optimistic","70","5",NA
+"Trade union","Control emissions","core","Economic savings","pessimistic","55","5",NA
+"Trade union","Energy saving practices","core","Economic savings","optimistic","75","5",NA
+"Trade union","Energy saving practices","core","Economic savings","pessimistic","55","5",NA
+"Trade union","Health and safety","core","Economic savings","optimistic","25","5",NA
+"Trade union","Health and safety","core","Economic savings","pessimistic","20","5",NA
+"Trade union","Low energy equipment","core","Economic savings","optimistic","80","5",NA
+"Trade union","Low energy equipment","core","Economic savings","pessimistic","65","5",NA
+"Trade union","Recycle equipment","core","Economic savings","optimistic","65","5",NA
+"Trade union","Recycle equipment","core","Economic savings","pessimistic","50","5",NA
+"Trade union","Recycle materials","core","Economic savings","optimistic","65","5",NA
+"Trade union","Recycle materials","core","Economic savings","pessimistic","55","5",NA
+"Trade union","Reduce toxics","core","Economic savings","optimistic","70","5",NA
+"Trade union","Reduce toxics","core","Economic savings","pessimistic","55","5",NA
+"Trade union","Renewable energy","core","Economic savings","optimistic","85","5",NA
+"Trade union","Renewable energy","core","Economic savings","pessimistic","65","5",NA
+"Trade union","Control emissions","core","Implementation time","optimistic","70","39",NA
+"Trade union","Control emissions","core","Implementation time","pessimistic","50","39",NA
+"Trade union","Energy saving practices","core","Implementation time","optimistic","75","39",NA
+"Trade union","Energy saving practices","core","Implementation time","pessimistic","50","39",NA
+"Trade union","Health and safety","core","Implementation time","optimistic","75","39",NA
+"Trade union","Health and safety","core","Implementation time","pessimistic","55","39",NA
+"Trade union","Low energy equipment","core","Implementation time","optimistic","75","39",NA
+"Trade union","Low energy equipment","core","Implementation time","pessimistic","55","39",NA
+"Trade union","Recycle equipment","core","Implementation time","optimistic","90","39",NA
+"Trade union","Recycle equipment","core","Implementation time","pessimistic","70","39",NA
+"Trade union","Recycle materials","core","Implementation time","optimistic","90","39",NA
+"Trade union","Recycle materials","core","Implementation time","pessimistic","75","39",NA
+"Trade union","Reduce toxics","core","Implementation time","optimistic","70","39",NA
+"Trade union","Reduce toxics","core","Implementation time","pessimistic","50","39",NA
+"Trade union","Renewable energy","core","Implementation time","optimistic","70","39",NA
+"Trade union","Renewable energy","core","Implementation time","pessimistic","45","39",NA
+"Trade union","Control emissions","core","Operating costs","optimistic","90","1",NA
+"Trade union","Control emissions","core","Operating costs","pessimistic","70","1",NA
+"Trade union","Energy saving practices","core","Operating costs","optimistic","95","1",NA
+"Trade union","Energy saving practices","core","Operating costs","pessimistic","85","1",NA
+"Trade union","Health and safety","core","Operating costs","optimistic","85","1",NA
+"Trade union","Health and safety","core","Operating costs","pessimistic","65","1",NA
+"Trade union","Low energy equipment","core","Operating costs","optimistic","85","1",NA
+"Trade union","Low energy equipment","core","Operating costs","pessimistic","55","1",NA
+"Trade union","Recycle equipment","core","Operating costs","optimistic","85","1",NA
+"Trade union","Recycle equipment","core","Operating costs","pessimistic","70","1",NA
+"Trade union","Recycle materials","core","Operating costs","optimistic","90","1",NA
+"Trade union","Recycle materials","core","Operating costs","pessimistic","75","1",NA
+"Trade union","Reduce toxics","core","Operating costs","optimistic","90","1",NA
+"Trade union","Reduce toxics","core","Operating costs","pessimistic","70","1",NA
+"Trade union","Renewable energy","core","Operating costs","optimistic","90","1",NA
+"Trade union","Renewable energy","core","Operating costs","pessimistic","65","1",NA
+"Trade union","Control emissions","core","Other reduced impacts","optimistic","40","5",NA
+"Trade union","Control emissions","core","Other reduced impacts","pessimistic","30","5",NA
+"Trade union","Energy saving practices","core","Other reduced impacts","optimistic","35","5",NA
+"Trade union","Energy saving practices","core","Other reduced impacts","pessimistic","25","5",NA
+"Trade union","Health and safety","core","Other reduced impacts","optimistic","50","5",NA
+"Trade union","Health and safety","core","Other reduced impacts","pessimistic","35","5",NA
+"Trade union","Low energy equipment","core","Other reduced impacts","optimistic","35","5",NA
+"Trade union","Low energy equipment","core","Other reduced impacts","pessimistic","25","5",NA
+"Trade union","Recycle equipment","core","Other reduced impacts","optimistic","45","5",NA
+"Trade union","Recycle equipment","core","Other reduced impacts","pessimistic","20","5",NA
+"Trade union","Recycle materials","core","Other reduced impacts","optimistic","35","5",NA
+"Trade union","Recycle materials","core","Other reduced impacts","pessimistic","20","5",NA
+"Trade union","Reduce toxics","core","Other reduced impacts","optimistic","75","5",NA
+"Trade union","Reduce toxics","core","Other reduced impacts","pessimistic","65","5",NA
+"Trade union","Renewable energy","core","Other reduced impacts","optimistic","40","5",NA
+"Trade union","Renewable energy","core","Other reduced impacts","pessimistic","30","5",NA
+"Trade union","Control emissions","core","Reduced carbon emissions","optimistic","65","25",NA
+"Trade union","Control emissions","core","Reduced carbon emissions","pessimistic","50","25",NA
+"Trade union","Energy saving practices","core","Reduced carbon emissions","optimistic","75","25",NA
+"Trade union","Energy saving practices","core","Reduced carbon emissions","pessimistic","55","25",NA
+"Trade union","Health and safety","core","Reduced carbon emissions","optimistic","25","25",NA
+"Trade union","Health and safety","core","Reduced carbon emissions","pessimistic","20","25",NA
+"Trade union","Low energy equipment","core","Reduced carbon emissions","optimistic","70","25",NA
+"Trade union","Low energy equipment","core","Reduced carbon emissions","pessimistic","50","25",NA
+"Trade union","Recycle equipment","core","Reduced carbon emissions","optimistic","65","25",NA
+"Trade union","Recycle equipment","core","Reduced carbon emissions","pessimistic","45","25",NA
+"Trade union","Recycle materials","core","Reduced carbon emissions","optimistic","65","25",NA
+"Trade union","Recycle materials","core","Reduced carbon emissions","pessimistic","45","25",NA
+"Trade union","Reduce toxics","core","Reduced carbon emissions","optimistic","45","25",NA
+"Trade union","Reduce toxics","core","Reduced carbon emissions","pessimistic","35","25",NA
+"Trade union","Renewable energy","core","Reduced carbon emissions","optimistic","75","25",NA
+"Trade union","Renewable energy","core","Reduced carbon emissions","pessimistic","60","25",NA
+"Trade union","Control emissions","core","Start-up costs","optimistic","65","1",NA
+"Trade union","Control emissions","core","Start-up costs","pessimistic","40","1",NA
+"Trade union","Energy saving practices","core","Start-up costs","optimistic","80","1",NA
+"Trade union","Energy saving practices","core","Start-up costs","pessimistic","60","1",NA
+"Trade union","Health and safety","core","Start-up costs","optimistic","95","1",NA
+"Trade union","Health and safety","core","Start-up costs","pessimistic","80","1",NA
+"Trade union","Low energy equipment","core","Start-up costs","optimistic","60","1",NA
+"Trade union","Low energy equipment","core","Start-up costs","pessimistic","40","1",NA
+"Trade union","Recycle equipment","core","Start-up costs","optimistic","80","1",NA
+"Trade union","Recycle equipment","core","Start-up costs","pessimistic","65","1",NA
+"Trade union","Recycle materials","core","Start-up costs","optimistic","85","1",NA
+"Trade union","Recycle materials","core","Start-up costs","pessimistic","70","1",NA
+"Trade union","Reduce toxics","core","Start-up costs","optimistic","65","1",NA
+"Trade union","Reduce toxics","core","Start-up costs","pessimistic","40","1",NA
+"Trade union","Renewable energy","core","Start-up costs","optimistic","75","1",NA
+"Trade union","Renewable energy","core","Start-up costs","pessimistic","35","1",NA
